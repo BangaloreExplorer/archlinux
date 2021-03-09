@@ -1,15 +1,11 @@
-0ad a24.b-2
 alacritty 0.7.2-1
 alsa-firmware 1.2.4-2
 alsa-utils 1.2.4-2
-android-studio 4.1.2.0-1
-android-tools 30.0.5-1
 aom 2.0.2-1
 appeditor-git r80.41176cf-1
 appstream 0.14.3-1
 appstream-generator 0.8.4-1
 archey3 0.5-11
-archiso 51-1
 aria2 1.35.0-2
 atom 1.54.0-1
 auracle-git r366.8739929-1
@@ -32,7 +28,6 @@ code 1.53.2-1
 cpupower 5.11-1
 cpupower-gui 1.0.0-3
 darktable 2:3.4.1-2
-davinci-resolve 16.2.8-1
 dconf-editor 3.38.2-1
 deadbeef 1.8.4-1
 deluge 2.0.4.dev38+g23a48dd01-3
@@ -184,8 +179,6 @@ meld 3.20.3-1
 microsoft-edge-dev 88.0.673.0-1
 mkisolinux 2013.05-3
 mousetweaks 3.32.0-2
-mpc 0.33-3
-mpd 0.22.6-1
 mplayer 38157-3
 mpv 1:0.33.0-4
 mtools 4.0.26-1
